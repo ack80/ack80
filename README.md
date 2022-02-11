@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ack80
 - 👀 I’m interested in Mobile security
 - 🌱 I’m currently learning Andoid os
-- 💞️ I’m looking to collaborate on pentesting projecto
+- 💞️ I’m looking to collaborate on pentesting projects
 
 - 📫 How to reach me drujanax@gmail.com
 
